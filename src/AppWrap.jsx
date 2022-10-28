@@ -12,7 +12,10 @@ export default function AppForm() {
 function Navbar() {
   return (
     <header style={{ backgroundColor: 'yellow' }}>
-
+      <Avatar
+        image='https'
+      >
+      </Avatar>
     </header>
   )
 }
